@@ -17,18 +17,33 @@ Desenvolver e validar uma API de integração com PicPay utilizando metodologia 
 /docs ├── fluxo-trabalho.pdf ├── user-stories.pdf ├── mindmap-user-story.pdf ├── casos-teste-step-by-step.pdf └── casos-teste-bdd.pdf
 
 
+
+---
+
 ## 📋 Documentos Entregues
 
 - ✅ Fluxo de trabalho de desenvolvimento e ciclo de vida do bug
-- ✅ 2 User Stories originais
-- ✅ Mind-map de uma User Story
-- ✅ 2 Casos de Teste Step-by-Step
-- ✅ 2 Casos de Teste BDD
+- ✅ 2 User Stories originais com critérios de aceite
+- ✅ Mind-map da User Story “Criar pagamento via PicPay”
+- ✅ 2 Casos de Teste manuais (step-by-step)
+- ✅ 2 Casos de Teste em formato BDD (Gherkin)
 
-## 📦 Metodologia
+---
 
-O projeto foi conduzido em sprints de 2 semanas, com planejamento, execução, revisão e retrospectiva. O ciclo de QA incluiu testes manuais, automatizados, exploratórios e validação em ambiente sandbox PicPay.
+## 📦 Metodologia Scrum
+
+O projeto foi conduzido em sprints de 2 semanas, com as seguintes cerimônias:
+
+- **Sprint Planning**: Definição de escopo e estimativas
+- **Daily Scrum**: Acompanhamento de progresso e bloqueios
+- **Sprint Review**: Demonstração de funcionalidades entregues
+- **Retrospective**: Análise de melhorias no processo
+
+O ciclo de QA incluiu testes manuais, automatizados, exploratórios e validação em ambiente sandbox PicPay.
+
+---
 
 ## 👨‍💻 Autor
 
-Victor — QA e desenvolvedor em formação, apaixonado por qualidade, automação e agilidade.
+**Victor**  
+Profissional em formado na área de Analise de Sistemas, com foco em automação, metodologias ágeis e entrega de valor contínuo.
