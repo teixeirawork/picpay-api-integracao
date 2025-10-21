@@ -14,3 +14,4 @@ Desenvolver e validar uma API de integração com PicPay utilizando metodologia 
 - **CI/CD**: Pipeline de testes e deploy automatizado para sandbox e produção.
 
 ## 📂 Estrutura do Repositório
+/docs ├── fluxo-trabalho.pdf ├── user-stories.pdf ├── mindmap-user-story.pdf ├── casos-teste-step-by-step.pdf └── casos-teste-bdd.pdf
